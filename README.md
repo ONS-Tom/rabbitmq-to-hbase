@@ -1,2 +1,8 @@
 # rabbitmq-to-hbase
-A repo for testing receiving messages from RabbitMQ and inserting the message into HBase
+A repo for testing getting a message from a RabbitMQ queue and inserting it into HBase.
+
+## Running Details
+
+```shell
+sbt run
+```
