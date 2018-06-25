@@ -1,14 +1,14 @@
 # rabbitmq-to-hbase
 A repo for testing getting a message from a RabbitMQ queue and inserting it into HBase.
 
-# Environment Setup
+## Environment Setup
 
 You will need the following:
 - SBT (version `0.13.13`)
 - Scala (version `2.11.8`)
 - Docker
 
-# Running RabbitMQ
+## Running RabbitMQ
 
 To run RabbitMQ, run the following commands:
 
